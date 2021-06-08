@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/20210608.dir/main.cpp.o  -o 20210608.exe -Wl,--out-implib,lib20210608.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
