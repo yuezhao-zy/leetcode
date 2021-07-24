@@ -1,9 +1,9 @@
-//https://leetcode.com/problems/trapping-rain-water/submissions/
+ //https://leetcode.com/problems/trapping-rain-water/submissions/
 class Solution {
 
 public:
     int dfs(int s,int e,vector<int>& height){
-        if (e == s+1){
+        if (e <= s+1){
             return 0;
         }
     int num_box = 0;
