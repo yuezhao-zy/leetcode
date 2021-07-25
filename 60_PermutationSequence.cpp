@@ -1,4 +1,5 @@
-t int max_n = 10;
+//https://leetcode.com/problems/permutation-sequence/
+const int max_n = 10;
 class Solution {
     public:
 
